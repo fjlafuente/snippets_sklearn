@@ -1,6 +1,6 @@
 # snippets_sklearn
 
-##Preparing data
+## Preparing data
 ````python
 
 #Linear Regression
